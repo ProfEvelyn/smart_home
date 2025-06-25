@@ -1,4 +1,4 @@
-<<<<<<< working copy
+
 # Smart Home Monitoring System
 
 ## Overview
